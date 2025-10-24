@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Knob\\Desktop\\poc-todo-api-dotnet\\ToDoApi\\ToDoApi.csproj": {}
+    "C:\\Users\\Knob\\Desktop\\poc-api-todo-dotnet\\ToDoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Knob\\Desktop\\poc-todo-api-dotnet\\ToDoApi\\ToDoApi.csproj": {
+    "C:\\Users\\Knob\\Desktop\\poc-api-todo-dotnet\\ToDoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Knob\\Desktop\\poc-todo-api-dotnet\\ToDoApi\\ToDoApi.csproj",
+        "projectUniqueName": "C:\\Users\\Knob\\Desktop\\poc-api-todo-dotnet\\ToDoApi.csproj",
         "projectName": "ToDoApi",
-        "projectPath": "C:\\Users\\Knob\\Desktop\\poc-todo-api-dotnet\\ToDoApi\\ToDoApi.csproj",
+        "projectPath": "C:\\Users\\Knob\\Desktop\\poc-api-todo-dotnet\\ToDoApi.csproj",
         "packagesPath": "C:\\Users\\Knob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Knob\\Desktop\\poc-todo-api-dotnet\\ToDoApi\\obj\\",
+        "outputPath": "C:\\Users\\Knob\\Desktop\\poc-api-todo-dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Knob\\AppData\\Roaming\\NuGet\\NuGet.Config"

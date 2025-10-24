@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FGG3XRWG7zU=",
+  "dgSpecHash": "rs0G+LWa0h4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Knob\\Desktop\\poc-todo-api-dotnet\\ToDoApi\\ToDoApi.csproj",
+  "projectFilePath": "C:\\Users\\Knob\\Desktop\\poc-api-todo-dotnet\\ToDoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Knob\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Knob\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.21\\microsoft.aspnetcore.openapi.8.0.21.nupkg.sha512",
